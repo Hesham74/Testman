@@ -1,0 +1,8 @@
+print("hello world")
+print("mosamircs")
+print("ali shaker")
+print("abo basha")
+print("sara")
+print("hesham")
+print("bedewy")
+print("the best team to be")
